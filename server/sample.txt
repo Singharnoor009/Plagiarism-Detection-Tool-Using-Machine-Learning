@@ -1,0 +1,14 @@
+Predicting house prices is an important task in real 
+estate market that affects the decisions of many 
+stakeholders, from home buyers to sellers and investors. 
+Traditional price predictions are often based on historical 
+trends, comparisons and expert opinions. However, these 
+methods may not capture the dynamic and non-linear 
+relationships that exist in the real estate market. Machine 
+learning can predict key values using various data points. 
+This may include features such as location, square footage, 
+number of bedrooms and bathrooms, lot size, and other 
+features that may affect the price. This system will assimilate 
+all these features using machine learning algorithms such as 
+Random Forest [1] [2] and Gradient Boosting [3], providing 
+better house price predictions than traditional methods. 

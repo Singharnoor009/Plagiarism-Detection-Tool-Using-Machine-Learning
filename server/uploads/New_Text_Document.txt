@@ -1,0 +1,5 @@
+HOUSE PRICE PREDICTION USING MACHINE LEARNING
+
+ABSTRACT
+House price prediction using machine learning is a popular topic in the field of data science and artificial intelligence. With the increasing availability of data and the advancements in the machine learning algorithms, predicting house prices accurately has become more feasible than ever before. In this study, we aim to predict house prices using variety of machine learning techniques decision tree, Lasso, Linear regression analysis. We will also explore feature selection and engineering techniques to identify the most important variables that influence house prices. By analyzing and predicting house prices accurately, we can provide valuable insights for buyers, sellers, and real estate agents, enabling them to make informed decisions based on the current market conditions. Our results show that machine learning algorithms can accurately predict house prices and out perform traditional regression methods.
+Keywords: Algorithms, Data Science, Machine Learning, Analysis, Prediction, research.
